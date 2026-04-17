@@ -1,0 +1,1 @@
+{"node_feat_type": "float32", "edge_feat_type": "float32", "dataset": "LASTFM", "node_feat_dim": 128, "edge_feat_dim": 128, "node_num": 1980, "edge_num": 1293103}

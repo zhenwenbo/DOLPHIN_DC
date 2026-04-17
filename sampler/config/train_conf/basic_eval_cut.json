@@ -1,0 +1,11 @@
+{
+    "use_valid_edge": false,  
+    "use_async_prefetch": true,
+    "pre_sample_size": 600000,
+    "part_neg_sample": false,
+    "use_pin_memory": false,
+    "model_eval": true,
+    "cut_zombie": true
+    
+
+}
